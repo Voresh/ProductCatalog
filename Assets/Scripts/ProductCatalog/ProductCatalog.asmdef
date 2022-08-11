@@ -1,0 +1,16 @@
+{
+    "name": "ProductCatalog",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4038b5a687ffe784bbd382227f709d1e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

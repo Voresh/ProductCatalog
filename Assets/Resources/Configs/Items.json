@@ -1,0 +1,16 @@
+{
+  "Items" : [
+    {
+      "Id" : "CoinUniqueId",
+      "Name" : "Coin"
+    },
+    {
+      "Id" : "GemUniqueId",
+      "Name" : "Gem"
+    },
+    {
+      "Id" : "TicketUniqueId",
+      "Name" : "Ticket"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ResourcesConfigs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:093cd274630c64e47a4f339dd1614c3f",
+        "GUID:4038b5a687ffe784bbd382227f709d1e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

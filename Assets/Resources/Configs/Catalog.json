@@ -1,0 +1,56 @@
+{
+  "Products" : [
+    {
+      "Id" : "DemoProduct1UniqueId",
+      "Name" : "Coins",
+      "ShortDescription" : "Demo product №1 short description",
+      "PriceUSD" : 1,
+      "IncludedItem" : {
+        "Id" : "CoinUniqueId",
+        "Count" : 250
+      }
+    },
+    {
+      "Id" : "DemoProduct2UniqueId",
+      "Name" : "Gems",
+      "ShortDescription" : "Demo product №2 short description",
+      "PriceUSD" : 3,
+      "IncludedItem" : {
+        "Id" : "GemUniqueId",
+        "Count" : 50
+      }
+    },
+    {
+      "Id" : "DemoProduct3UniqueId",
+      "Name" : "Tickets",
+      "ShortDescription" : "Demo product №3 short description",
+      "PriceUSD" : 0,
+      "IncludedItem" : {
+        "Id" : "TicketUniqueId",
+        "Count" : 1000
+      }
+    }
+  ],
+  "Bundles" : [
+    {
+      "Id" : "DemoBundle1UniqueId",
+      "Name" : "Pack",
+      "ShortDescription" : "Demo bundle №1 short description",
+      "PriceUSD" : 10,
+      "IncludedItems" : [
+        {
+          "Id" : "CoinUniqueId",
+          "Count" : 10
+        },
+        {
+          "Id" : "GemUniqueId",
+          "Count" : 5
+        },
+        {
+          "Id" : "TicketUniqueId",
+          "Count" : 3
+        }
+      ]
+    }
+  ]
+}
